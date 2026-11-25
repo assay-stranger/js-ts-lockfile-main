@@ -1,0 +1,10 @@
+{
+  "name": "coldrun-js-ts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cold-run fixture: JS/TS with a lockfile",
+  "main": "src/index.ts",
+  "dependencies": {
+    "lodash": "4.17.20"
+  }
+}
